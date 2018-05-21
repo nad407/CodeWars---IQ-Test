@@ -1,0 +1,11 @@
+C:\Users\Schools_home\source\repos\IQTest\IQTest\bin\Debug\netcoreapp2.0\IQTest.deps.json
+C:\Users\Schools_home\source\repos\IQTest\IQTest\bin\Debug\netcoreapp2.0\IQTest.runtimeconfig.json
+C:\Users\Schools_home\source\repos\IQTest\IQTest\bin\Debug\netcoreapp2.0\IQTest.runtimeconfig.dev.json
+C:\Users\Schools_home\source\repos\IQTest\IQTest\bin\Debug\netcoreapp2.0\IQTest.dll
+C:\Users\Schools_home\source\repos\IQTest\IQTest\bin\Debug\netcoreapp2.0\IQTest.pdb
+C:\Users\Schools_home\source\repos\IQTest\IQTest\obj\Debug\netcoreapp2.0\IQTest.csprojResolveAssemblyReference.cache
+C:\Users\Schools_home\source\repos\IQTest\IQTest\obj\Debug\netcoreapp2.0\IQTest.csproj.CoreCompileInputs.cache
+C:\Users\Schools_home\source\repos\IQTest\IQTest\obj\Debug\netcoreapp2.0\IQTest.AssemblyInfoInputs.cache
+C:\Users\Schools_home\source\repos\IQTest\IQTest\obj\Debug\netcoreapp2.0\IQTest.AssemblyInfo.cs
+C:\Users\Schools_home\source\repos\IQTest\IQTest\obj\Debug\netcoreapp2.0\IQTest.dll
+C:\Users\Schools_home\source\repos\IQTest\IQTest\obj\Debug\netcoreapp2.0\IQTest.pdb
